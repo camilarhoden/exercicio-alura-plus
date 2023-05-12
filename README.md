@@ -9,7 +9,7 @@ Camila Agostini Rhoden. Você pode saber mais sobre a autora ou entrar em contat
 <br>
 
 ## Informações Gerais
-Este curso foi feito para colocar em prática HTML e CSS. Foi disponibilizado um arquivo em Figma com o layout da página e, a partir dele, o código foi construído. 
+Este curso foi feito para colocar em prática HTML e CSS. Foi disponibilizado um arquivo em Figma com o layout da página e, a partir dele, o código foi construído. Mesmo que no arquivo do Figma só havia o layout para desktop, a responsividade foi considerada.
 
 <br>
 
@@ -19,6 +19,7 @@ Este curso foi feito para colocar em prática HTML e CSS. Foi disponibilizado um
 * Flexbox
 * Diferentes formas de inserir imagem na página
 * Pseudo-classe para hover
+* Media queries
 
 <br>
 

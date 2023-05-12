@@ -167,3 +167,56 @@ body {
     color: var(--grey-secondary);
     margin: 2em 0;
 }
+
+@media screen and (max-width: 768px) {
+
+    .container {
+        display: block;
+        background-image: none;
+    }
+
+    .container__image {
+        width: 50vh;
+    }
+
+    .container__box {
+        margin: 2em 3em;
+    }
+
+    .description__title {
+        font-size: 36px;
+    }
+
+    .secondary {
+        margin: 0;
+        text-align: center;
+    }
+
+    .secondary__image {
+        width: 50vh;
+    }
+
+    .devices {
+        margin: 0 2em;
+    }
+
+    .devices__title {
+        font-size: 36px;
+    }
+
+    .devices__list {
+        display: block;
+    }
+
+    .list__item {
+        font-size: 24px;
+    }
+
+    .footer__list {
+        display: block;
+    }
+
+    .footer {
+        margin: 2em 2em;
+    }
+}
